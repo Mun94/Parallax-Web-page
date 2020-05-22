@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/background.jpg);
+    background-color: #0a2a43;
     background-size:cover;
     min-height:1500px
 }
@@ -21,7 +21,7 @@ section{
     height: 100px;
     background: linear-gradient(to top,#0d3757, transparent);
     z-index:10000;
-}/*
+}
 section:after{
     content: '';
     position: absolute;
@@ -32,7 +32,7 @@ section:after{
     background:#0a2a43;
     z-index:10000;
     mix-blend-mode: color;
-} */
+}
 section img{
     position: absolute;
     top: 0;
